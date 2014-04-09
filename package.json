@@ -1,0 +1,8 @@
+{
+  "name": "you-app-name",
+  "version": "0.0.1",
+  "description": "App description",
+  "author": "Your Name <your@mail.com>"
+  "dependencies": {
+  },
+}
